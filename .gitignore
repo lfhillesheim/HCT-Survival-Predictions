@@ -1,0 +1,8 @@
+*.csv
+*.tsv
+*.xls
+*.xlsx
+venv/
+.env
+credential.json
+__pycache__/
