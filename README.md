@@ -4,16 +4,18 @@ This project aims to improve the accuracy and fairness of survival predictions f
 
 ## Table of Contents
 
-- [Introduction](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#introduction)
-- [Data Description](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#data-description)
-- [Project Structure](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#project-structure)
-- [Installation](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#installation)
-- [Usage](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#usage)
-- [Methodology](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#methodology)
-- [Results](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#results)
-- [Contributing](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#contributing)
-- [License](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#license)
-- [Acknowledgments](https://app.adapta.one/chats/gpt/c0be6b57-dbe3-4abd-91a0-eb12a39dadc4#acknowledgments)
+
+Introduction
+Data Description
+Project Structure
+Installation
+Usage
+Methodology
+Results
+Contributing
+License
+Acknowledgments
+
 
 ## Introduction
 
