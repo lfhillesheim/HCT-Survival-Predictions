@@ -71,10 +71,6 @@ The project successfully developed predictive models that improve the accuracy a
 
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes. Ensure that your code adheres to the project's coding standards and includes relevant tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://app.adapta.one/chats/gpt/LICENSE) file for more details.
-
 ## Acknowledgments
 
 We would like to thank the CIBMTR for providing the data and support for this project. Special thanks to all contributors and collaborators who made this project possible.
